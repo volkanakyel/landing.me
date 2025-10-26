@@ -1,75 +1,29 @@
-# Nuxt Minimal Starter
+# Landing Pages
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Curated collection of beautiful landing pages built with **Nuxt** and **Motion**.
 
-## Setup
+## Tech Stack
 
-Make sure to install dependencies:
+- ⚡ [Nuxt 3](https://nuxt.com) - Vue framework
+- 🎨 [Tailwind CSS](https://tailwindcss.com) - Styling
+- ✨ [@vueuse/motion](https://motion.vueuse.org) - Smooth animations
+- 🖼️ [@nuxt/image](https://image.nuxt.com) - Image optimization
+
+## Quick Start
 
 ```bash
-# npm
+# Install dependencies
 npm install
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+# Start development server
 npm run dev
 
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
+# Build for production
 npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
+Visit [http://localhost:3000](http://localhost:3000) to view the project.
 
-```bash
-# npm
-npm run preview
+## License
 
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+MIT
